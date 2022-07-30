@@ -1,0 +1,86 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 5px;
+    padding:5px;
+}
+.about-1{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(images/donation2.jpg);
+}
+.about-2{
+ width: 100%; 
+ height: 100%;  
+ color: gold;
+ display: flex;
+ font-size: 20px;
+ justify-content: center;
+ flex-direction: column;
+ align-items: center;   
+}
+.about-3{
+    text-decoration: none;
+    background-image: linear-gradient(orange, gold);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+}
+.about-4{
+    text-align: center;
+    margin: 5vh;
+}
+.about-5{
+    display: flex;
+    margin: 100px;
+}
+.about-6{
+    margin: 10px;
+    text-align: center;
+    border: 10px;
+    width: 10%;
+    height: 10vh;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px grey
+}
+#section-1{ 
+border:2px solid magenta;
+border-radius: 10px;
+}
+.about-7{
+    text-decoration: none;
+    background-image: linear-gradient(blueviolet,blue);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+}
+.about-8{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+}
+#section-2{
+background-color: darkcyan;
+}
+#section-3{
+    background-color: fuchsia;
+}
+#section-4{
+    background-color: darkolivegreen;
+}
+.about-9{
+    text-align: center;
+    background-color: gray; 
+}
+#section-5{
+    color: brown;
+}
+#section-6{
+    color: black;
+}
+
